@@ -1,0 +1,21 @@
+# .NET Build & User files
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+
+# Frontend Node & Build outputs
+node_modules/
+dist/
+dist-ssr/
+*.log
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
