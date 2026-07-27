@@ -50,6 +50,7 @@ A full-stack invoicing & GST compliance tool designed for solo freelancers, inde
 |---|---|---|
 | **Backend API** | ASP.NET Core 9 Web API | C#, Controller-based API structure |
 | **Database** | MongoDB Atlas / Local MongoDB | MongoDB.Driver with BSON document mappings |
+| **Background Jobs**| Hangfire | Background job server for recurring billing & automated payment reminders |
 | **Frontend** | React 18 + TypeScript + Vite | Built with React Router v6 & Tailwind CSS v4 |
 | **Styling** | Tailwind CSS v4 | Modern CSS-first utility classes with dark theme |
 | **Charts** | Recharts | Interactive area charts for monthly revenue trends |
